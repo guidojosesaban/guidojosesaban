@@ -6,15 +6,15 @@
 <p><em>Construyo productos digitales completos — desde la arquitectura hasta producción.</em></p>
 
 <p>
-  <a href="https://linkedin.com/in/sabanguido">
+  <a href="https://linkedin.com/in/sabanguido" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/LinkedIn-sabanguido-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
   </a>
   &nbsp;
-  <a href="https://devguido.netlify.app">
+  <a href="https://devguido.netlify.app" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Portfolio-devguido.netlify.app-00C7B7?style=flat-square&logo=netlify&logoColor=white" />
   </a>
   &nbsp;
-  <a href="mailto:sabanguido@gmail.com">
+  <a href="mailto:sabanguido@gmail.com" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Email-sabanguido@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" />
   </a>
   &nbsp;
@@ -75,7 +75,7 @@ Participo de forma **end-to-end** en cada proyecto: relevamiento de requerimient
 
 ## Proyectos Destacados
 
-### 🎙️ [Radio Mutquín Origen](https://radiomutquinorigen.com.ar)
+### 🎙️ <a href="https://radiomutquinorigen.com.ar" target="_blank" rel="noopener noreferrer">Radio Mutquín Origen</a>
 > Plataforma web comunitaria integral que combina radio en vivo con portal de noticias, clasificados, turismo y cultura regional.
 
 Arquitectura full-stack con **Next.js 14 App Router**, TypeScript y MySQL. Incluye un reproductor de streaming flotante con cambio dinámico de programación, agregador de feeds RSS de +15 medios regionales, panel de administración CRUD completo, autenticación segura con rate-limiting y diseño neumórfico responsive.
@@ -84,7 +84,7 @@ Arquitectura full-stack con **Next.js 14 App Router**, TypeScript y MySQL. Inclu
 
 ---
 
-### 🏢 [El Conando](https://elconando.com)
+### 🏢 <a href="https://elconando.com" target="_blank" rel="noopener noreferrer">El Conando</a>
 > Sitio institucional de agencia tecnológica enfocada en ingeniería de software, IA y comunicación estratégica.
 
 Desarrollado y desplegado íntegramente desde cero — arquitectura, diseño, código y producción. Interfaz bilingüe (ES/EN), optimizada para SEO, con gestión de medios via Cloudinary y rendimiento de primer nivel.
@@ -93,7 +93,7 @@ Desarrollado y desplegado íntegramente desde cero — arquitectura, diseño, c�
 
 ---
 
-### 🎵 [EKIS EKIS Music](https://ekisekismusic.com)
+### 🎵 <a href="https://ekisekismusic.com" target="_blank" rel="noopener noreferrer">EKIS EKIS Music</a>
 > Hub digital de artista internacional para DJ y productor argentino con alcance en +34 países.
 
 Integración nativa con **Spotify**, **SoundCloud**, **Beatport** y **YouTube**. Diseño dark-mode inmersivo, orientado a promotores, managers y sellos discográficos. Arquitectura Jamstack con servicio de imágenes optimizadas vía CDN.
@@ -102,7 +102,7 @@ Integración nativa con **Spotify**, **SoundCloud**, **Beatport** y **YouTube**.
 
 ---
 
-### 🌿 [Zinnia Medicina Integrativa](https://zinniamedicinaintegrativa.com)
+### 🌿 <a href="https://zinniamedicinaintegrativa.com" target="_blank" rel="noopener noreferrer">Zinnia Medicina Integrativa</a>
 > Plataforma digital para clínica de medicina funcional e integrativa con directorio profesional y e-commerce.
 
 Ecosistema desacoplado con integración directa a **WhatsApp API** (mensajes pre-formateados por profesional), **Tienda Nube** para e-commerce de productos de bienestar y gestión de assets con transformaciones dinámicas vía Cloudinary.
@@ -124,6 +124,6 @@ Ecosistema desacoplado con integración directa a **WhatsApp API** (mensajes pre
 <div align="center">
   <sub>
     Disponible para oportunidades remotas o en Buenos Aires &nbsp;·&nbsp;
-    <a href="mailto:sabanguido@gmail.com">sabanguido@gmail.com</a>
+    <a href="mailto:sabanguido@gmail.com" target="_blank" rel="noopener noreferrer">sabanguido@gmail.com</a>
   </sub>
 </div>

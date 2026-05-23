@@ -1,129 +1,173 @@
-<div align="center">
+<!DOCTYPE html>
 
-<h1>Guido Saban</h1>
-<p><strong>Full Stack Developer</strong> &nbsp;·&nbsp; Buenos Aires, Argentina</p>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Guido José Saban - GitHub Profile</title>
+</head>
+<body style="font-family: Arial, sans-serif; background-color: #0d1117; color: #e6edf3; margin: 0; padding: 0; line-height: 1.6;">
 
-<p><em>Construyo productos digitales completos — desde la arquitectura hasta producción.</em></p>
+  <div style="max-width: 1100px; margin: auto; padding: 40px;">
 
-<p>
-  <a href="https://linkedin.com/in/sabanguido" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/LinkedIn-sabanguido-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
-  </a>
-  &nbsp;
-  <a href="https://devguido.netlify.app" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Portfolio-devguido.netlify.app-00C7B7?style=flat-square&logo=netlify&logoColor=white" />
-  </a>
-  &nbsp;
-  <a href="mailto:sabanguido@gmail.com" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Email-sabanguido@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" />
-  </a>
-  &nbsp;
-  <img src="https://img.shields.io/badge/Open%20to%20opportunities-available-22c55e?style=flat-square" />
-</p>
-
+```
+<div style="text-align: center; margin-bottom: 50px;">
+  <h1 style="font-size: 48px; margin-bottom: 10px;">Guido José Saban</h1>
+  <h2 style="color: #58a6ff; margin-top: 0;">Full Stack Engineer SSR</h2>
+  <p style="font-size: 18px; color: #8b949e;">
+    TypeScript • Node.js • React • Backend Architecture
+  </p>
+  <p style="font-size: 16px; max-width: 800px; margin: auto;">
+    Building scalable systems, real-time applications and business-oriented software solutions.
+  </p>
 </div>
 
----
+<hr />
 
-## Sobre mí
+<section>
+  <h2>About Me</h2>
+  <p>
+    Full Stack Engineer SSR specialized in the TypeScript ecosystem (Node.js, React, NestJS), focused on scalable backend architectures, REST APIs and real-time systems.
+  </p>
 
-Desarrollador Full Stack con experiencia en frontend, backend y análisis funcional. Mi carrera comenzó en soporte técnico y consultoría SAP, evolucionando hacia el desarrollo de software y la arquitectura de soluciones — una combinación que me permite entender tanto la lógica técnica como las necesidades reales del negocio y del usuario final.
+  <p>
+    I have experience working in both enterprise environments and freelance projects, developing solutions focused on automation, operational optimization and modern web applications.
+  </p>
 
-Participo de forma **end-to-end** en cada proyecto: relevamiento de requerimientos, definición funcional, arquitectura, desarrollo, testing, despliegue y mantenimiento.
+  <ul>
+    <li>Enterprise software development</li>
+    <li>Backend architecture</li>
+    <li>Workflow automation</li>
+    <li>Real-time systems</li>
+    <li>Scalable APIs</li>
+    <li>SEO & performance optimization</li>
+  </ul>
+</section>
 
-- 🎓 Ingeniería de Sistemas — UADE *(en curso)*
-- 💼 Actualmente **abierto a oportunidades** full-time o freelance
-- 🌍 Buenos Aires, Argentina · Disponible para trabajo remoto
+<hr />
 
----
+<section>
+  <h2>Tech Stack</h2>
 
-## Stack Tecnológico
+  <h3>Languages</h3>
+  <p>TypeScript • JavaScript • SQL • HTML5 • CSS3</p>
 
-**Frontend**
+  <h3>Frontend</h3>
+  <p>React • Next.js • Astro • Tailwind CSS • Bootstrap</p>
 
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![Astro](https://img.shields.io/badge/Astro-FF5D01?style=flat-square&logo=astro&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+  <h3>Backend & APIs</h3>
+  <p>Node.js • NestJS • Express.js • REST APIs • WebSockets • JWT • RBAC</p>
 
-**Backend**
+  <h3>Databases</h3>
+  <p>PostgreSQL • MongoDB • DynamoDB</p>
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
-![REST API](https://img.shields.io/badge/REST%20APIs-005C97?style=flat-square&logo=fastapi&logoColor=white)
+  <h3>Cloud & DevOps</h3>
+  <p>AWS • Docker • Git • GitHub</p>
+</section>
 
-**Bases de datos**
+<hr />
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=flat-square&logo=amazondynamodb&logoColor=white)
+<section>
+  <h2>Areas of Expertise</h2>
 
-**Cloud & DevOps**
+  <ul>
+    <li>Backend Development</li>
+    <li>Full Stack Applications</li>
+    <li>REST APIs</li>
+    <li>Workflow Automation</li>
+    <li>Real-Time Systems</li>
+    <li>Scalable Architectures</li>
+    <li>Serverless Architecture</li>
+    <li>Enterprise Systems</li>
+  </ul>
+</section>
 
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![SAP BTP](https://img.shields.io/badge/SAP%20BTP-0FAAFF?style=flat-square&logo=sap&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+<hr />
 
----
+<section>
+  <h2>Professional Experience</h2>
 
-## Proyectos Destacados
+  <h3>Freelance Full Stack Developer</h3>
+  <p><strong>Jan 2023 - Present</strong></p>
+  <ul>
+    <li>End-to-end development of web applications and business management systems.</li>
+    <li>Full stack architecture design focused on scalability, SEO and performance.</li>
+    <li>Development of real-time systems using WebSockets.</li>
+    <li>Workflow automation and operational optimization.</li>
+  </ul>
 
-### 🎙️ <a href="https://radiomutquinorigen.com.ar" target="_blank" rel="noopener noreferrer">Radio Mutquín Origen</a>
-> Plataforma web comunitaria integral que combina radio en vivo con portal de noticias, clasificados, turismo y cultura regional.
+  <h3>Indra — Full Stack Developer / Backend Developer</h3>
+  <p><strong>Jan 2023 - Feb 2026</strong></p>
+  <ul>
+    <li>Development of enterprise applications focused on process automation.</li>
+    <li>Backend modules and REST API integrations using Node.js.</li>
+    <li>Automation of accounting workflows reducing approximately 90% of manual workload.</li>
+    <li>Development of supplier management and validation platforms.</li>
+  </ul>
 
-Arquitectura full-stack con **Next.js 14 App Router**, TypeScript y MySQL. Incluye un reproductor de streaming flotante con cambio dinámico de programación, agregador de feeds RSS de +15 medios regionales, panel de administración CRUD completo, autenticación segura con rate-limiting y diseño neumórfico responsive.
+  <h3>Indra — SAP Support Analyst</h3>
+  <p><strong>Mar 2020 - Dec 2022</strong></p>
+  <ul>
+    <li>Functional and technical support for enterprise SAP environments.</li>
+    <li>Resolution of high-priority incidents for corporate clients.</li>
+    <li>Operational optimization and workflow acceleration.</li>
+  </ul>
+</section>
 
-`Next.js 14` `TypeScript` `MySQL` `CSS Modules` `REST API` `Framer Motion`
+<hr />
 
----
+<section>
+  <h2>Featured Projects</h2>
 
-### 🏢 <a href="https://elconando.com" target="_blank" rel="noopener noreferrer">El Conando</a>
-> Sitio institucional de agencia tecnológica enfocada en ingeniería de software, IA y comunicación estratégica.
+  <h3>Real-Time Dispatch Platform</h3>
+  <p>
+    Real-time dispatch and logistics management platform using WebSockets for instant synchronization and operational monitoring.
+  </p>
 
-Desarrollado y desplegado íntegramente desde cero — arquitectura, diseño, código y producción. Interfaz bilingüe (ES/EN), optimizada para SEO, con gestión de medios via Cloudinary y rendimiento de primer nivel.
+  <h3>AI Knowledge Ecosystem</h3>
+  <p>
+    Local AI ecosystem integrating Ollama and LLM workflows focused on optimized context management and token-efficient interactions.
+  </p>
 
-`Astro` `TypeScript` `Tailwind CSS` `Cloudinary` `i18n`
+  <h3>Enterprise Workflow Automation</h3>
+  <p>
+    Enterprise automation solutions designed to reduce manual operations and optimize approval workflows.
+  </p>
+</section>
 
----
+<hr />
 
-### 🎵 <a href="https://ekisekismusic.com" target="_blank" rel="noopener noreferrer">EKIS EKIS Music</a>
-> Hub digital de artista internacional para DJ y productor argentino con alcance en +34 países.
+<section>
+  <h2>Education</h2>
+  <p>
+    <strong>Universidad Argentina de la Empresa (UADE)</strong><br>
+    Systems Engineering<br>
+    2020 - Present
+  </p>
+</section>
 
-Integración nativa con **Spotify**, **SoundCloud**, **Beatport** y **YouTube**. Diseño dark-mode inmersivo, orientado a promotores, managers y sellos discográficos. Arquitectura Jamstack con servicio de imágenes optimizadas vía CDN.
+<hr />
 
-`Next.js` `Cloudinary` `Spotify API` `SoundCloud API` `Beatport`
+<section>
+  <h2>Languages</h2>
+  <p>Spanish — Native</p>
+  <p>English — B1 Technical Intermediate</p>
+</section>
 
----
+<hr />
 
-### 🌿 <a href="https://zinniamedicinaintegrativa.com" target="_blank" rel="noopener noreferrer">Zinnia Medicina Integrativa</a>
-> Plataforma digital para clínica de medicina funcional e integrativa con directorio profesional y e-commerce.
+<section>
+  <h2>Connect With Me</h2>
+  <p>LinkedIn: linkedin.com/in/sabanguido/</p>
+  <p>Email: sabanguido@gmail.com</p>
+</section>
 
-Ecosistema desacoplado con integración directa a **WhatsApp API** (mensajes pre-formateados por profesional), **Tienda Nube** para e-commerce de productos de bienestar y gestión de assets con transformaciones dinámicas vía Cloudinary.
-
-`Next.js` `TypeScript` `Cloudinary` `WhatsApp API` `Tienda Nube`
-
----
-
-## GitHub Stats
-
-<div align="center">
-  <img height="155" src="https://github-readme-stats.vercel.app/api?username=guidojosesaban&show_icons=true&theme=default&hide_border=true&count_private=true&title_color=111827&icon_color=111827&text_color=374151" />
-  &nbsp;
-  <img height="155" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guidojosesaban&layout=compact&theme=default&hide_border=true&title_color=111827&text_color=374151" />
+<div style="text-align: center; margin-top: 60px; color: #8b949e;">
+  <h3>Building scalable software solutions with modern technologies.</h3>
 </div>
+```
 
----
+  </div>
 
-<div align="center">
-  <sub>
-    Disponible para oportunidades remotas o en Buenos Aires &nbsp;·&nbsp;
-    <a href="mailto:sabanguido@gmail.com" target="_blank" rel="noopener noreferrer">sabanguido@gmail.com</a>
-  </sub>
-</div>
+</body>
+</html>

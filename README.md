@@ -17,6 +17,74 @@ Soy un **Full Stack Engineer SSR** especializado en el ecosistema TypeScript (No
 
 ---
 
+## 🚀 Proyectos Destacados
+
+<table border="0" style="width: 100%; border-collapse: collapse;">
+  <tr>
+    <td width="50%" align="center" valign="top">
+      <img src="public/PROYECTOS/ekisekisweb.gif" alt="Ekis Ekis Music" width="100%" style="border-radius: 8px;">
+      <br><br>
+      <h3>🎧 Ekis Ekis Music</h3>
+      <p align="left">Hub digital para un proyecto de alcance internacional en la escena electrónica. Integra navegación mediante mapa interactivo y centraliza todo el catálogo musical del artista.</p>
+      <p align="left">
+        <img src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript">
+        <img src="https://img.shields.io/badge/-Astro-FF5D01?style=flat-square&logo=astro&logoColor=white" alt="Astro">
+        <img src="https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" alt="Tailwind">
+      </p>
+      <div align="left">
+        <a href="https://ekisekismusic.com/"><strong>🔗 Explorar Proyecto</strong></a>
+      </div>
+    </td>
+    <td width="50%" align="center" valign="top">
+      <img src="public/PROYECTOS/ZINNIA.webp" alt="Zinnia Medicina Integrativa" width="100%" style="border-radius: 8px;">
+      <br><br>
+      <h3>🌿 Zinnia Medicina Integrativa</h3>
+      <p align="left">Ecosistema digital para centro de medicina integrativa. Centraliza cartilla de profesionales, planes corporativos, exhibición de servicios médicos y catálogo e-commerce integrado.</p>
+      <p align="left">
+        <img src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript">
+        <img src="https://img.shields.io/badge/-Astro-FF5D01?style=flat-square&logo=astro&logoColor=white" alt="Astro">
+        <img src="https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" alt="Tailwind">
+      </p>
+      <div align="left">
+        <a href="https://zinniamedicinaintegrativa.com/"><strong>🔗 Explorar Proyecto</strong></a>
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center" valign="top">
+      <br>
+      <img src="public/PROYECTOS/radioMutquinOrigen.jpg" alt="Radio Mutquin Origen" width="100%" style="border-radius: 8px;">
+      <br><br>
+      <h3>📻 Radio Mutquin Origen</h3>
+      <p align="left">Plataforma web integral para emisora online. Conecta la transmisión de audio ininterrumpida con secciones dedicadas a noticias, material cultural, clasificados y exposición de servicios.</p>
+      <p align="left">
+        <img src="https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white" alt="Next.js">
+        <img src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript">
+        <img src="https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS">
+      </p>
+      <div align="left">
+        <a href="https://radiomutquinorigen.com/"><strong>🔗 Explorar Proyecto</strong></a>
+      </div>
+    </td>
+    <td width="50%" align="center" valign="top">
+      <br>
+      <img src="public/PROYECTOS/ProjectsCTAcard.png" alt="+35 Proyectos" width="100%" style="border-radius: 8px;">
+      <br><br>
+      <h3>💼 +35 Proyectos Exitosos</h3>
+      <p align="left">He colaborado y estructurado el despliegue digital de múltiples marcas y emprendimientos. ¿Te falta estructura digital para despegar tu proyecto?</p>
+      <p align="left">
+        <img src="https://img.shields.io/badge/-%2B35_Proyectos-2EA043?style=flat-square" alt="Proyectos">
+        <img src="https://img.shields.io/badge/-Top_Rated-F1E05A?style=flat-square" alt="Top Rated">
+      </p>
+      <div align="left">
+        <a href="mailto:sabanquido@gmail.com"><strong>✉️ Contáctanos</strong></a>
+      </div>
+    </td>
+  </tr>
+</table>
+
+---
+
 ## 🛠️ Tecnologías y Herramientas
 
 ### Lenguajes

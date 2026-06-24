@@ -2,14 +2,14 @@
 
 <h1 align="center">👋 ¡Hola! Soy Guido José Saban</h1>
 
-<h3 align="center">Full Stack Developer SSR | Node.js, React, TypeScript</h3>
+<h3 align="center">Full Stack Developer | Node.js, React, TypeScript</h3>
 <p align="center">📍 Buenos Aires, Argentina</p>
 
 ---
 
 ## 👨‍💻 Sobre mí
 
-Soy un **Full Stack Engineer SSR** especializado en el ecosistema TypeScript (Node.js, React, NestJS). Me apasiona transformar necesidades complejas de negocio en software eficiente, con un fuerte enfoque en el diseño de arquitecturas escalables, automatización de procesos y rendimiento web.
+Soy un **Full Stack Engineer** especializado en el ecosistema TypeScript (Node.js, React, NestJS). Me apasiona transformar necesidades complejas de negocio en software eficiente, con un fuerte enfoque en el diseño de arquitecturas escalables, automatización de procesos y rendimiento web.
 
 - 💼 Actualmente trabajando como Freelance Full Stack Developer.
 - 🎓 Cursando la Ingeniería de Sistemas en la Universidad Argentina de la Empresa (UADE).
@@ -22,7 +22,7 @@ Soy un **Full Stack Engineer SSR** especializado en el ecosistema TypeScript (No
 <table border="0" style="width: 100%; border-collapse: collapse;">
   <tr>
     <td width="50%" align="center" valign="top">
-      <img src="public/PROYECTOS/ekisekisweb.gif" alt="Ekis Ekis Music" width="100%" style="border-radius: 8px;">
+      <img src="./ekisekismusic.jpg" alt="Ekis Ekis Music" width="100%" style="border-radius: 8px;">
       <br><br>
       <h3>🎧 Ekis Ekis Music</h3>
       <p align="left">Hub digital para un proyecto de alcance internacional en la escena electrónica. Integra navegación mediante mapa interactivo y centraliza todo el catálogo musical del artista.</p>

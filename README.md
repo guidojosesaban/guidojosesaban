@@ -74,7 +74,7 @@ Soy un **Full Stack Engineer** especializado en el ecosistema TypeScript (Node.j
       <p align="left">
         <img src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript">
         <img src="https://img.shields.io/badge/-Astro-FF5D01?style=flat-square&logo=astro&logoColor=white" alt="Astro">
-        <img src="https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" alt="Tailwind">
+          <img src="https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS">
       </p>
       <div align="left">
         <a href="https://elconando.com/"><strong>🔗 Explorar Proyecto</strong></a>

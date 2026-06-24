@@ -37,7 +37,7 @@ Soy un **Full Stack Engineer** especializado en el ecosistema TypeScript (Node.j
     </td>
     <td width="50%" align="center" valign="top">
       <br>
-      <img src="public/PROYECTOS/radioMutquinOrigen.jpg" alt="Radio Mutquin Origen" width="100%" style="border-radius: 8px;">
+      <img src="./radioMutquinOrigen.jpg" alt="Radio Mutquin Origen" width="100%" style="border-radius: 8px;">
       <br><br>
       <h3>📻 Radio Mutquin Origen</h3>
       <p align="left">Plataforma web integral para emisora online. Conecta la transmisión de audio ininterrumpida con secciones dedicadas a noticias, material cultural, clasificados y exposición de servicios.</p>
@@ -53,7 +53,7 @@ Soy un **Full Stack Engineer** especializado en el ecosistema TypeScript (Node.j
   </tr>
   <tr>
     <td width="50%" align="center" valign="top">
-      <img src="public/PROYECTOS/ZINNIA.webp" alt="Zinnia Medicina Integrativa" width="100%" style="border-radius: 8px;">
+      <img src="./ZINNIA.png" alt="Zinnia Medicina Integrativa" width="100%" style="border-radius: 8px;">
       <br><br>
       <h3>🌿 Zinnia Medicina Integrativa</h3>
       <p align="left">Ecosistema digital para centro de medicina integrativa. Centraliza cartilla de profesionales, planes corporativos, exhibición de servicios médicos y catálogo e-commerce integrado.</p>
@@ -67,17 +67,17 @@ Soy un **Full Stack Engineer** especializado en el ecosistema TypeScript (Node.j
       </div>
     </td>
     <td width="50%" align="center" valign="top">
-      <br>
-      <img src="public/PROYECTOS/ProjectsCTAcard.png" alt="+35 Proyectos" width="100%" style="border-radius: 8px;">
+      <img src="./ElConando.jpg" alt="Zinnia Medicina Integrativa" width="100%" style="border-radius: 8px;">
       <br><br>
-      <h3>💼 +35 Proyectos Exitosos</h3>
-      <p align="left">He colaborado y estructurado el despliegue digital de múltiples marcas y emprendimientos. ¿Te falta estructura digital para despegar tu proyecto?</p>
+      <h3>🤖 El Conando</h3>
+      <p align="left">Ecosistema digital para centro de medicina integrativa. Centraliza cartilla de profesionales, planes corporativos, exhibición de servicios médicos y catálogo e-commerce integrado.</p>
       <p align="left">
-        <img src="https://img.shields.io/badge/-%2B35_Proyectos-2EA043?style=flat-square" alt="Proyectos">
-        <img src="https://img.shields.io/badge/-Top_Rated-F1E05A?style=flat-square" alt="Top Rated">
+        <img src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript">
+        <img src="https://img.shields.io/badge/-Astro-FF5D01?style=flat-square&logo=astro&logoColor=white" alt="Astro">
+        <img src="https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" alt="Tailwind">
       </p>
       <div align="left">
-        <a href="mailto:sabanquido@gmail.com"><strong>✉️ Contáctanos</strong></a>
+        <a href="https://elconando.com/"><strong>🔗 Explorar Proyecto</strong></a>
       </div>
     </td>
   </tr>

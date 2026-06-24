@@ -123,7 +123,7 @@ Soy un **Full Stack Engineer** especializado en el ecosistema TypeScript (Node.j
 ## 📫 Conecta conmigo
 
 <div align="center">
-  <a href="https://linkedin.com/in/sabanquido/">
+  <a href="https://www.linkedin.com/in/sabanguido/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:sabanquido@gmail.com">

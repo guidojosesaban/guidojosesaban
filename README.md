@@ -1,4 +1,4 @@
-<img src="https://i.imgur.com/K21XwPz.png" alt="Guido Saban Cover" width="100%">
+<img src="./devguidobg.png" alt="Guido Saban Cover" width="100%">
 
 <h1 align="center">👋 ¡Hola! Soy Guido José Saban</h1>
 
